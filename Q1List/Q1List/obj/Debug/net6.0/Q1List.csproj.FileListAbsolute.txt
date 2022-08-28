@@ -1,0 +1,15 @@
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1List\Q1List\bin\Debug\net6.0\Q1List.exe
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1List\Q1List\bin\Debug\net6.0\Q1List.deps.json
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1List\Q1List\bin\Debug\net6.0\Q1List.runtimeconfig.json
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1List\Q1List\bin\Debug\net6.0\Q1List.dll
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1List\Q1List\bin\Debug\net6.0\Q1List.pdb
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1List\Q1List\obj\Debug\net6.0\Q1List.csproj.AssemblyReference.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1List\Q1List\obj\Debug\net6.0\Q1List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1List\Q1List\obj\Debug\net6.0\Q1List.AssemblyInfoInputs.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1List\Q1List\obj\Debug\net6.0\Q1List.AssemblyInfo.cs
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1List\Q1List\obj\Debug\net6.0\Q1List.csproj.CoreCompileInputs.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1List\Q1List\obj\Debug\net6.0\Q1List.dll
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1List\Q1List\obj\Debug\net6.0\refint\Q1List.dll
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1List\Q1List\obj\Debug\net6.0\Q1List.pdb
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1List\Q1List\obj\Debug\net6.0\Q1List.genruntimeconfig.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1List\Q1List\obj\Debug\net6.0\ref\Q1List.dll
