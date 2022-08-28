@@ -1,0 +1,15 @@
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Integer\Q1Integer\obj\Debug\net6.0\Q1Integer.csproj.AssemblyReference.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Integer\Q1Integer\obj\Debug\net6.0\Q1Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Integer\Q1Integer\obj\Debug\net6.0\Q1Integer.AssemblyInfoInputs.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Integer\Q1Integer\obj\Debug\net6.0\Q1Integer.AssemblyInfo.cs
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Integer\Q1Integer\obj\Debug\net6.0\Q1Integer.csproj.CoreCompileInputs.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Integer\Q1Integer\bin\Debug\net6.0\Q1Integer.exe
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Integer\Q1Integer\bin\Debug\net6.0\Q1Integer.deps.json
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Integer\Q1Integer\bin\Debug\net6.0\Q1Integer.runtimeconfig.json
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Integer\Q1Integer\bin\Debug\net6.0\Q1Integer.dll
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Integer\Q1Integer\bin\Debug\net6.0\Q1Integer.pdb
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Integer\Q1Integer\obj\Debug\net6.0\Q1Integer.dll
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Integer\Q1Integer\obj\Debug\net6.0\refint\Q1Integer.dll
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Integer\Q1Integer\obj\Debug\net6.0\Q1Integer.pdb
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Integer\Q1Integer\obj\Debug\net6.0\Q1Integer.genruntimeconfig.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Integer\Q1Integer\obj\Debug\net6.0\ref\Q1Integer.dll
