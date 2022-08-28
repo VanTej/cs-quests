@@ -1,0 +1,15 @@
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Poo\Q1Poo\bin\Debug\net6.0\Q1Poo.exe
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Poo\Q1Poo\bin\Debug\net6.0\Q1Poo.deps.json
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Poo\Q1Poo\bin\Debug\net6.0\Q1Poo.runtimeconfig.json
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Poo\Q1Poo\bin\Debug\net6.0\Q1Poo.dll
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Poo\Q1Poo\bin\Debug\net6.0\Q1Poo.pdb
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Poo\Q1Poo\obj\Debug\net6.0\Q1Poo.csproj.AssemblyReference.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Poo\Q1Poo\obj\Debug\net6.0\Q1Poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Poo\Q1Poo\obj\Debug\net6.0\Q1Poo.AssemblyInfoInputs.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Poo\Q1Poo\obj\Debug\net6.0\Q1Poo.AssemblyInfo.cs
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Poo\Q1Poo\obj\Debug\net6.0\Q1Poo.csproj.CoreCompileInputs.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Poo\Q1Poo\obj\Debug\net6.0\Q1Poo.dll
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Poo\Q1Poo\obj\Debug\net6.0\refint\Q1Poo.dll
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Poo\Q1Poo\obj\Debug\net6.0\Q1Poo.pdb
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Poo\Q1Poo\obj\Debug\net6.0\Q1Poo.genruntimeconfig.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Poo\Q1Poo\obj\Debug\net6.0\ref\Q1Poo.dll
