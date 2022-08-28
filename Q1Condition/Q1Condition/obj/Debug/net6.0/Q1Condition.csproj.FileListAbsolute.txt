@@ -1,0 +1,15 @@
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Condition\Q1Condition\bin\Debug\net6.0\Q1Condition.exe
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Condition\Q1Condition\bin\Debug\net6.0\Q1Condition.deps.json
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Condition\Q1Condition\bin\Debug\net6.0\Q1Condition.runtimeconfig.json
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Condition\Q1Condition\bin\Debug\net6.0\Q1Condition.dll
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Condition\Q1Condition\bin\Debug\net6.0\Q1Condition.pdb
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Condition\Q1Condition\obj\Debug\net6.0\Q1Condition.csproj.AssemblyReference.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Condition\Q1Condition\obj\Debug\net6.0\Q1Condition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Condition\Q1Condition\obj\Debug\net6.0\Q1Condition.AssemblyInfoInputs.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Condition\Q1Condition\obj\Debug\net6.0\Q1Condition.AssemblyInfo.cs
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Condition\Q1Condition\obj\Debug\net6.0\Q1Condition.csproj.CoreCompileInputs.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Condition\Q1Condition\obj\Debug\net6.0\Q1Condition.dll
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Condition\Q1Condition\obj\Debug\net6.0\refint\Q1Condition.dll
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Condition\Q1Condition\obj\Debug\net6.0\Q1Condition.pdb
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Condition\Q1Condition\obj\Debug\net6.0\Q1Condition.genruntimeconfig.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Condition\Q1Condition\obj\Debug\net6.0\ref\Q1Condition.dll
