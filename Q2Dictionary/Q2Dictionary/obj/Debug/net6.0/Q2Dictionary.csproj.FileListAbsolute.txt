@@ -1,0 +1,15 @@
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q2Dictionary\Q2Dictionary\obj\Debug\net6.0\Q2Dictionary.csproj.AssemblyReference.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q2Dictionary\Q2Dictionary\obj\Debug\net6.0\Q2Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q2Dictionary\Q2Dictionary\obj\Debug\net6.0\Q2Dictionary.AssemblyInfoInputs.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q2Dictionary\Q2Dictionary\obj\Debug\net6.0\Q2Dictionary.AssemblyInfo.cs
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q2Dictionary\Q2Dictionary\obj\Debug\net6.0\Q2Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q2Dictionary\Q2Dictionary\bin\Debug\net6.0\Q2Dictionary.exe
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q2Dictionary\Q2Dictionary\bin\Debug\net6.0\Q2Dictionary.deps.json
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q2Dictionary\Q2Dictionary\bin\Debug\net6.0\Q2Dictionary.runtimeconfig.json
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q2Dictionary\Q2Dictionary\bin\Debug\net6.0\Q2Dictionary.dll
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q2Dictionary\Q2Dictionary\bin\Debug\net6.0\Q2Dictionary.pdb
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q2Dictionary\Q2Dictionary\obj\Debug\net6.0\Q2Dictionary.dll
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q2Dictionary\Q2Dictionary\obj\Debug\net6.0\refint\Q2Dictionary.dll
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q2Dictionary\Q2Dictionary\obj\Debug\net6.0\Q2Dictionary.pdb
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q2Dictionary\Q2Dictionary\obj\Debug\net6.0\Q2Dictionary.genruntimeconfig.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q2Dictionary\Q2Dictionary\obj\Debug\net6.0\ref\Q2Dictionary.dll

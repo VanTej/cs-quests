@@ -11,7 +11,7 @@ dec[1] = 11;
 dec[2] = 12;
 dec[3] = 13;
 dec[4] = 14;
-int[] fusion = new int[10];
+int[] fusion = new int[unity.Length + dec.Length];
 for (int i = 0; i < unity.Length; i++)
 {
 	fusion[i] = unity[i];
