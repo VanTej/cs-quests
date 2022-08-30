@@ -1,0 +1,15 @@
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Array\Q1Array\bin\Debug\net6.0\Q1Array.exe
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Array\Q1Array\bin\Debug\net6.0\Q1Array.deps.json
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Array\Q1Array\bin\Debug\net6.0\Q1Array.runtimeconfig.json
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Array\Q1Array\bin\Debug\net6.0\Q1Array.dll
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Array\Q1Array\bin\Debug\net6.0\Q1Array.pdb
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Array\Q1Array\obj\Debug\net6.0\Q1Array.csproj.AssemblyReference.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Array\Q1Array\obj\Debug\net6.0\Q1Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Array\Q1Array\obj\Debug\net6.0\Q1Array.AssemblyInfoInputs.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Array\Q1Array\obj\Debug\net6.0\Q1Array.AssemblyInfo.cs
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Array\Q1Array\obj\Debug\net6.0\Q1Array.csproj.CoreCompileInputs.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Array\Q1Array\obj\Debug\net6.0\Q1Array.dll
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Array\Q1Array\obj\Debug\net6.0\refint\Q1Array.dll
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Array\Q1Array\obj\Debug\net6.0\Q1Array.pdb
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Array\Q1Array\obj\Debug\net6.0\Q1Array.genruntimeconfig.cache
+C:\Users\fgpre\Documents\Vanessa\cs-quests\Q1Array\Q1Array\obj\Debug\net6.0\ref\Q1Array.dll
